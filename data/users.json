@@ -1,0 +1,82 @@
+{
+  "1": {
+    "firstname": "Emilie",
+    "lastname": "Bastholm",
+    "username": "emi",
+    "password": "password1",
+    "birthday": "14/05/98",
+    "gender": "female",
+    "interest": "male",
+    "id": 1
+  },
+  "2": {
+    "firstname": "Victor",
+    "lastname": "Andersen",
+    "username": "vic",
+    "password": "password1",
+    "birthday": "15/05/98",
+    "gender": "male",
+    "interest": "female",
+    "id": 2
+  },
+  "3": {
+    "firstname": "Peter",
+    "lastname": "Hansen",
+    "username": "pet",
+    "password": "password1",
+    "birthday": "16/05/98",
+    "gender": "male",
+    "interest": "male",
+    "id": 3
+  },
+  "4": {
+    "firstname": "sofie",
+    "lastname": "Bastholm",
+    "username": "sof",
+    "password": "password1",
+    "birthday": "18/05/98",
+    "gender": "female",
+    "interest": "male",
+    "id": 4
+  },
+  "5": {
+    "6": {
+      "firstname": "sofie",
+      "lastname": "Bastholm",
+      "username": "sof",
+      "password": "password1",
+      "birthday": "18/05/98",
+      "gender": "female",
+      "interest": "male",
+      "id": 6
+    }
+  },
+  "6": {
+    "firstname": "",
+    "lastname": "",
+    "username": "",
+    "password": "",
+    "gender": ""
+  },
+  "7": {
+    "firstname": "Emilie Sofie",
+    "lastname": "Bastholm",
+    "username": "emba20ab",
+    "password": "1111",
+    "gender": "female"
+  },
+  "8": {
+    "firstname": "Emilie Sofie",
+    "lastname": "Bastholm",
+    "username": "emba20ab",
+    "password": "1111",
+    "gender": "female"
+  },
+  "9": {
+    "firstname": "Julie",
+    "lastname": "Bastholm",
+    "username": "julle",
+    "password": "1111",
+    "gender": "female"
+  }
+}
